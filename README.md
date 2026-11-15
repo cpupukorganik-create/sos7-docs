@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo-sos7.png" alt="Logo SOS7" width="180" style="border-radius: 50%; box-shadow: 0 10px 25px rgba(0,0,0,0.4); background: white; padding: 10px; margin-bottom: 20px;">
   
-  <h1>🛡️ SOS7: Spesialis Otomatisasi & Data</h1>
+  <h1>SOS7: Spesialis Otomatisasi & Data</h1>
   <p>Infrastruktur digital otonom berbasis AI, Python, dan Node.js.</p>
   
   <a href="https://sos7.my.id" style="display: inline-block; background: #25D366; color: white; padding: 12px 25px; text-decoration: none; border-radius: 8px; font-weight: bold; margin-top: 15px;">Kunjungi Website Resmi</a>
